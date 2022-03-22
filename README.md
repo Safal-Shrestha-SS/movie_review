@@ -4,10 +4,10 @@ You need to get movie and mongoose api key. Movie api key can be obtained from t
 
 Then on backend you can create .env file with
 
-MOVIEREV_DB_URI=<Your api key>
+MOVIEREV_DB_URI=<<Your api key>>
 
   
 PORT=5000
 
-TMDB_DB_URI=<Your api key>
+TMDB_DB_URI=<<Your api key>>
   
