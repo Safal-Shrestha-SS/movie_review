@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/userRoute/signup
+Content-Type: application/json
+
+{
+    "userName":"Safal",
+    "email":"safal@gmail.com",
+    "password":"safal"
+}
